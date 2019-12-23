@@ -3,9 +3,9 @@ A very simple keylogger made in Python.
 
 ## Requirements
 You need:
-*Python & Pip
-*Pynput
-*Baisc knowledge of python
+* Python & Pip
+* Pynput
+* Baisc knowledge of python
 
 ## Installing pynput
 Simply do `pip install pynput`
