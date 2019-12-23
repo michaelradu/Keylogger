@@ -1,7 +1,14 @@
 # Simple-Keylogger
-As the title suggests, this is nothing more but a simple keylogger made in Python.
+A very simple keylogger made in Python.
 
-To start, you will need to have python3 and pip installed.
-Do pip install pynput
+##Requirements
+You need:
+*Python & Pip
+*Pynput
+*Baisc knowledge of python
 
-And afterwards you are pretty much done, just run the logger.pyw and type anything, to see that it works, check key_log.txt.
+##Installing pynput
+Simply do `pip install pynput`
+
+##Starting the keylogger
+Just `python3` logger.pyw and start typing anything anywhere, you can check key_log.txt to see if it works, you will have entries for literally any key you press!
