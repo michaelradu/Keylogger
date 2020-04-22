@@ -1,4 +1,4 @@
-# A simple keylogger for Linux (Working on the Windows and Mac versions)
+# A simple keylogger for Linux
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 
 [Website](https://simple-keylogger.github.io) - [Keylogger wiki](https://github.com/michaelraduu/Keylogger/wiki)
@@ -59,6 +59,8 @@ The keylogger is now running! It will log your strokes to the file named `key_lo
 - New keylog file structure for easier reading.
 
 - Make it a hidden proccess perhaps.
+
+- Windows and macOS versions.
 
 
 #### Uses
