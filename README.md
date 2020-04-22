@@ -1,18 +1,3 @@
-# Simple-Keylogger
-A very simple keylogger made in Python.
-
-## Requirements
-You need:
-* Python3 & Pip
-* Pynput
-* Baisc knowledge of python
-
-## Starting the keylogger
-Just `python3` logger.pyw and start typing anything anywhere, you can check key_log.txt to see if it works, you will have entries for literally any key you press!
-
-
-
-
 # A simple keylogger for Linux (Working on the Windows and Mac versions)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 
