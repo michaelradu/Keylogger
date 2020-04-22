@@ -18,9 +18,6 @@ Currently, there is ony one keylogger program which works for Linux and possibly
 
 Or, view the `README.md` file in each programs folder for more up to date information.
 
-### Installation
-Download the repo. It will install in `/usr/local/bin/keylogger`.
-
 
 ## Linux
 ### Installation
@@ -81,7 +78,7 @@ Feel free to contribute to fix any problems, or to submit an issue!
 
 Don't really understand licenses or tl;dr? Check out the [MIT license summary](https://tldrlegal.com/license/mit-license).
 
-Distributed under the MIT license. See [LICENSE](https://github.com/michaelraduu/Keylogger/LICENSE.txt) for more information.
+Distributed under the MIT license. See [LICENSE](https://github.com/michaelraduu/Keylogger/blob/master/LICENSE.txt) for more information.
 
 Michael Radu – [Website](https://michaelradu.cf)
 
