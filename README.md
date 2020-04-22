@@ -59,6 +59,7 @@ The keylogger is now running! It will log your strokes to the file named `key_lo
 
 - Windows and macOS versions.
 
+---
 
 #### Uses
 
