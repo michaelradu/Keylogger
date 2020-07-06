@@ -1,4 +1,4 @@
-# A simple keylogger for Linux
+# A simple keylogger
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 
 [Website](https://michaelraduu.github.io/Keylogger/) - [Keylogger wiki](https://github.com/michaelraduu/Keylogger/wiki)
@@ -13,7 +13,7 @@ Currently, there is ony one keylogger program which works for Linux and possibly
 > Looking to make a fix or change on the website? You can find the website repo [here (https://michaelraduu.github.io/Keylogger/).
 
 ## Contents
-- [Linux installation guide](#)
+- [Installation guide](#)
 - [Check out the site for more information](https://michaelraduu.github.io/Keylogger/)
 
 Or, view the `README.md` file in each programs folder for more up to date information.
