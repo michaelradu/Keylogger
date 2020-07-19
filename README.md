@@ -1,18 +1,16 @@
-                                           Python Keylogger 👀
 
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 
-[Website](https://michaelraduu.github.io/Keylogger/) - [Keylogger wiki](https://github.com/michaelraduu/Keylogger/wiki)
-
+                                           Python Keylogger 👀
 
 
                                             
 
 <br><br> 
-### What is this?
+#### What is this?
 A keylogger is a program that records your keystrokes, and this program saves them in a log file on your local computer.
-
+<br><br>
 ##### Requirements Python 3+
 <br><br> 
 
@@ -70,13 +68,13 @@ Feel free to contribute to fix any problems, or to submit an issue!
 
 
 
----
+
 
 
 
 ### Please note, this repo is for educational purposes only. No contributors, major or minor, are to fault for any actions done by this program.
 <br><br> 
-
+---
 
 ### 🔓 License
 MIT © [Michael Radu]()
