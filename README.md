@@ -4,14 +4,14 @@
 
 <!-- ![key_send](https://user-images.githubusercontent.com/47280551/70974252-1815a680-2086-11ea-9f90-ae618d383e2c.gif) -->
 
-##### Requirements Python 3+
+### Requirements: Python 3+
 <br><br> 
 
 
 #### How to use?
 
 ```sh
-Set up your Gmail email and password to get the evidences.
+Set up your Gmail email and password to get the evidence.
 ```
 <br><br> 
 
@@ -50,7 +50,3 @@ $ python start.py
 ### 🔓 License 
 MIT © [Michael Radu](https://michaelradu.cf)
 Don't really understand licenses or tl;dr? Check out the [MIT license summary](https://tldrlegal.com/license/mit-license).
-
-<br><br> 
-
-
