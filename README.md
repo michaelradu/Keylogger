@@ -1,12 +1,6 @@
-#Python Keylogger
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
+#Python Keylogger
 
-
-
-
-                                            
-
-<br><br> 
 #### What is this?
 A keylogger is a program that records your keystrokes, and this program saves them in a log file on your local computer.
 <br><br>
