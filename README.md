@@ -9,7 +9,6 @@
 
                                             
 
-![key_send](https://user-images.githubusercontent.com/47280551/70974252-1815a680-2086-11ea-9f90-ae618d383e2c.gif)
 <br><br> 
 ### What is this?
 A keylogger is a program that records your keystrokes, and this program saves them in a log file on your local computer.
