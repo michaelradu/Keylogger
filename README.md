@@ -17,7 +17,7 @@ Set up your Gmail email and password to get the evidences.
 <br><br> 
 
 
-#### Note: Since most people use Windows, this script has been modified, if you use Linux, modify ( 'cls' > 'clear' in funcoes.py 'python' > 'python {version} example python3  and install PILL linux)'
+#### Note: Since most people use Windows, this script has been modified, if you use Linux install PILL linux)'
 
 <br><br>
  
