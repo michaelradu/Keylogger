@@ -11,16 +11,16 @@
 #### How to use?
 
 ```sh
-Set up your Gmail email and password to get the evidence.
+Set up the Gmail email which will send you the evidence and the email you will receive the evidence on
 ```
 <br><br> 
 
 
-#### Note: Since most people use Windows, this script has been modified, if you use Linux install PILL linux)'
+#### Note: Since most people use Windows, this script has been modified, if you use Linux install PILL linux
 
 <br><br>
  
-### To install all libraries
+### To install the required libraries
 ```sh
 $ pip install -r requirements.txt
 ```
