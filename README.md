@@ -48,5 +48,5 @@ $ python start.py
 
 
 ### 🔓 License 
-MIT © [Michael Radu](https://michaelradu.cf)
+MIT © [Michael Radu](https://michaelradu.cf) <br>
 Don't really understand licenses or tl;dr? Check out the [MIT license summary](https://tldrlegal.com/license/mit-license).
