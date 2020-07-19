@@ -1,9 +1,10 @@
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
-#Python Keylogger
+                                           Python Keylogger 👀
+                                            
 
-#### What is this?
-A keylogger is a program that records your keystrokes, and this program saves them in a log file on your local computer.
-<br><br>
+<!-- ![key_send](https://user-images.githubusercontent.com/47280551/70974252-1815a680-2086-11ea-9f90-ae618d383e2c.gif) -->
+<br><br> 
+
+
 ##### Requirements Python 3+
 <br><br> 
 
@@ -16,7 +17,7 @@ Set up your Gmail email and password to get the evidences.
 <br><br> 
 
 
-<!--#### Note: Since most people use Windows, this script has been modified, if you use Linux install PILL linux)'-->
+#### Note: Since most people use Windows, this script has been modified, if you use Linux, modify ( 'cls' > 'clear' in funcoes.py 'python' > 'python {version} example python3  and install PILL linux)'
 
 <br><br>
  
@@ -43,35 +44,14 @@ $ python start.py
 <br><br> 
 
 
-
-#### How is this useful?
-
-Some uses of a keylogger are:
-
-- Business Administration: Monitor what employees are doing.
-- School/Institutions: Track keystrokes and log banned words in a file.
-- Personal Control and File Backup: Make sure no one is using your computer when you are away.
-- Parental Control: Track what your children are doing.
-- Self analysis
-
----
-
-Feel free to contribute to fix any problems, or to submit an issue!
-
-
-
-
-
-
-
-
 ### Please note, this repo is for educational purposes only. No contributors, major or minor, are to fault for any actions done by this program.
 <br><br> 
----
 
-### 🔓 License
-MIT © [Michael Radu]()
-<br><br> 
+
+### 🔓 License 
+MIT © [Michael Radu](https://michaelradu.cf)
 Don't really understand licenses or tl;dr? Check out the [MIT license summary](https://tldrlegal.com/license/mit-license).
+
+<br><br> 
 
 
