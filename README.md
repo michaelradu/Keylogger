@@ -46,7 +46,7 @@ $ python start.py
 ### Please note, this repo is for educational purposes only. No contributors, major or minor, are to fault for any actions done by this program.
 <br><br> 
 
-
+---
 ### 🔓 License 
 MIT © [Michael Radu](https://michaelradu.cf) <br>
 Don't really understand licenses or tl;dr? Check out the [MIT license summary](https://tldrlegal.com/license/mit-license).
