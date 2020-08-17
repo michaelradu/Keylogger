@@ -8,7 +8,7 @@
 <br><br> 
 
 
-#### How to use?
+#### Usage
 
 ```sh
 Set up the Gmail email which will send you the evidence and the email you will receive the evidence on
