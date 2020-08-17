@@ -2,8 +2,6 @@
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 ---                                           
 
-<!-- ![key_send](https://user-images.githubusercontent.com/47280551/70974252-1815a680-2086-11ea-9f90-ae618d383e2c.gif) -->
-
 ### Requirements: Python 3+
 <br><br> 
 
